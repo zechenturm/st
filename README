@@ -1,3 +1,14 @@
+Custom version of st with a few patches installed.
+
+applied patches:
+
+- alpha
+- history
+- xresources
+- themed cursor
+- scrollback
+
+
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
